@@ -11,7 +11,7 @@ title                    : "Patrick Fasano"
 title_separator          : "-"
 name                     : &name "Patrick Fasano"
 description              : &description "Graduate student in physics at Notre Dame"
-url                      : https://kc9jud.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://www.patrickfasano.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "kc9jud/kc9jud.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -30,7 +30,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -83,7 +83,7 @@ author:
   bio              : "Your biography for the left-hand sidebar"
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=yKT76xEAAAAJ"
   email            : "pfasano@nd.edu"
   uri              :
   bitbucket        :
@@ -101,7 +101,7 @@ author:
   orcid            : "https://orcid.org/0000-0003-2457-4976"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://stackoverflow.com/users/2088857/kc9jud"
   steam            :
   tumblr           :
   twitter          : "pjfasano"
