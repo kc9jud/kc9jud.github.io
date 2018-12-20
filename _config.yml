@@ -97,7 +97,7 @@ author:
   foursquare       :
   github           : "kc9jud"
   google_plus      :
-  keybase          :
+  keybase          : "pjfasano"
   instagram        :
   lastfm           :
   linkedin         :
@@ -120,6 +120,7 @@ include:
   - .htaccess
   - _pages
   - files
+  - .well-known
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"

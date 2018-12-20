@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/pjfasano
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.patrickfasano.com
+  * I am pjfasano (https://keybase.io/pjfasano) on keybase.
+  * I have a public key ASCtdXxMLj4amlEFW-_IjDypqYmf_GANDsaPtuf0zGqa1go
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012081bc5d5aea620bdde975d046128de74a6a26f4646a40cb95a9b81b517e45409f0a",
+      "host": "keybase.io",
+      "kid": "0120ad757c4c2e3e1a9a51055befc88c3ca9a9899ffc600d0ec68fb6e7f4cc6a9ad60a",
+      "uid": "419ee1092ac9e3d709c7a213d8f25e19",
+      "username": "pjfasano"
+    },
+    "merkle_root": {
+      "ctime": 1545345753,
+      "hash": "7c8f40bf294aad75387bd54aa5fdca506131250db034a977b200fada69d46d601a8e060264bff7271da857e1158ac56dab45e7edca699fbee841084c93cb2055",
+      "hash_meta": "8424a3dc7b32f5a19521881417339e115fc85186805f7d218f4118d6b29d8619",
+      "seqno": 4177767
+    },
+    "service": {
+      "entropy": "37LDKUHdk8PfpkIrEj7vTcz9",
+      "hostname": "www.patrickfasano.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "2.13.0"
+  },
+  "ctime": 1545345763,
+  "expire_in": 504576000,
+  "prev": "9203cae8ef08b0fd8d80e2ec5f9672dcd8c07a356b82b69aecd96affa776d6bf",
+  "seqno": 11,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgrXV8TC4+GppRBVvvyIw8qamJn/xgDQ7Gj7bn9MxqmtYKp3BheWxvYWTESpcCC8QgkgPK6O8IsP2NgOLsX5Zy3NjAejVrgraa7Nlq/6d21r/EIInrs6yrJr6Wl3eblZuvUBXDYX43Izywdo3dnLWB13lLAgHCo3NpZ8RAGO+rZZkX734aZw0dq+F+qfYyNaI6RZqcnmvA+HALb7Y2L6dogAvs97JMPYCuR08afxDfCQRLcMF7Dc2eB8+SBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIJ/UpWx2e5bZ+SJedvF5BzsgT6ToihQgFgHj7iyTFsQ9o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/pjfasano
+
+==================================================================
