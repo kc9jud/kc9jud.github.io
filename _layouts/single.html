@@ -43,9 +43,9 @@ layout: default
         {% endif %}
 
         <p>
-          {%- if page.doi -%}DOI: <a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a>{%- endif -%}
-          {%- if page.doi and page.arxiv -%}&nbsp;&vert;&nbsp;{%- endif -%}
-          {%- if page.arxiv -%}arXiv: <a href="https://arxiv.org/abs/{{ page.arxiv }}">{{ page.arxiv }}</a>{%- endif -%}
+          {%- if page.doi -%}DOI:&nbsp;<a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a>{%- endif -%}
+          {%- if page.doi and page.arxiv -%}&nbsp;&vert; {% endif -%}
+          {%- if page.arxiv -%}arXiv:&nbsp;<a href="https://arxiv.org/abs/{{ page.arxiv }}">{{ page.arxiv }}</a>{%- endif -%}
 
           {%- if page.doi or page.arxiv -%}{%- if page.citation or page.paperurl -%}<br />{%- endif -%}{%- endif -%}
 
