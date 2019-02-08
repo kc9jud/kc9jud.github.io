@@ -44,7 +44,7 @@ layout: default
 
         <p>
           {%- if post.doi -%}DOI: <a href="https://dx.doi.org/{{ post.doi }}">{{ post.doi }}</a>{%- endif -%}
-          {%- if post.doi and post.arxiv -%}&vert;{%- endif -%}
+          {%- if post.doi and post.arxiv -%}&nbsp;&vert;&nbsp;{%- endif -%}
           {%- if post.arxiv -%}arXiv: <a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a>{%- endif -%}
 
           {%- if post.doi or post.arxiv -%}{%- if post.citation or post.paperurl -%}<br />{%- endif -%}{%- endif -%}
