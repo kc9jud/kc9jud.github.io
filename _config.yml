@@ -144,6 +144,12 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - _pages/portfolio.html
+  - _portfolio
+  - _posts
+  - _pages/category-archive.html
+  - _pages/non-menu-page.md
+  - markdown_generator/readme.md
 keep_files:
   - .git
   - .svn
@@ -179,9 +185,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
