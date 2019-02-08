@@ -33,7 +33,7 @@
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
     </h2>
-    
+
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -51,14 +51,23 @@
     {% elsif post.excerpt and site.read_more == 'enabled' %}
     <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
-    
-    {% if post.citation and post.paperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>{{ post.paperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.paperurl %}
-      <p>Download <a href=" {{ post.paperurl }} "><u>here</u></a></p>
-    {% endif %}
+
+    <p>
+      {%- if post.doi -%}DOI: <a href="https://dx.doi.org/{{ post.doi }}">{{ post.doi }}</a>{%- endif -%}
+      {%- if post.doi and post.arxiv -%}&vert;{%- endif -%}
+      {%- if post.arxiv -%}arXiv: <a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a>{%- endif -%}
+
+      {%- if post.doi or post.arxiv -%}{%- if post.citation or post.paperurl -%}<br />{%- endif -%}{%- endif -%}
+
+      {% if post.citation and post.paperurl %}
+        Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>(download)</u></a>
+      {% elsif post.citation %}
+        Recommended citation: {{ post.citation }}
+      {% elsif post.paperurl %}
+        Download <a href=" {{ post.paperurl }} "><u>here</u></a>
+      {% endif %}
+    </p>
+
 
   </article>
 </div>
