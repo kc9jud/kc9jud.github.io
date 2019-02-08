@@ -43,18 +43,18 @@ layout: default
         {% endif %}
 
         <p>
-          {%- if post.doi -%}DOI: <a href="https://dx.doi.org/{{ post.doi }}">{{ post.doi }}</a>{%- endif -%}
-          {%- if post.doi and post.arxiv -%}&nbsp;&vert;&nbsp;{%- endif -%}
-          {%- if post.arxiv -%}arXiv: <a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a>{%- endif -%}
+          {%- if page.doi -%}DOI: <a href="https://dx.doi.org/{{ page.doi }}">{{ page.doi }}</a>{%- endif -%}
+          {%- if page.doi and page.arxiv -%}&nbsp;&vert;&nbsp;{%- endif -%}
+          {%- if page.arxiv -%}arXiv: <a href="https://arxiv.org/abs/{{ page.arxiv }}">{{ page.arxiv }}</a>{%- endif -%}
 
-          {%- if post.doi or post.arxiv -%}{%- if post.citation or post.paperurl -%}<br />{%- endif -%}{%- endif -%}
+          {%- if page.doi or page.arxiv -%}{%- if page.citation or page.paperurl -%}<br />{%- endif -%}{%- endif -%}
 
-          {% if post.citation and post.paperurl %}
-            Recommended citation: {{ post.citation }} <a href="{{ post.paperurl }}"><u>(download)</u></a>
-          {% elsif post.citation %}
-            Recommended citation: {{ post.citation }}
-          {% elsif post.paperurl %}
-            Download <a href=" {{ post.paperurl }} "><u>here</u></a>
+          {% if page.citation and page.paperurl %}
+            Recommended citation: {{ page.citation }} <a href="{{ page.paperurl }}"><u>(download)</u></a>
+          {% elsif page.citation %}
+            Recommended citation: {{ page.citation }}
+          {% elsif page.paperurl %}
+            Download <a href=" {{ page.paperurl }} "><u>here</u></a>
           {% endif %}
         </p>
 
