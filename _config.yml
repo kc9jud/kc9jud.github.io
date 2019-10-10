@@ -85,6 +85,7 @@ author:
   bio              : "Graduate student, nuclear theorist, breaker of supercomputers."
   location         : "South Bend, IN"
   employer         : "University of Notre Dame"
+  pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yKT76xEAAAAJ"
   email            : "pfasano@nd.edu"
   researchgate     : "https://www.researchgate.net/profile/Patrick_Fasano"
@@ -99,6 +100,7 @@ author:
   google_plus      :
   keybase          : "pjfasano"
   instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
   orcid            : "https://orcid.org/0000-0003-2457-4976"
@@ -128,21 +130,21 @@ exclude:
   - .bundle
   - .jekyll-assets-cache
   - .sass-cache
-  - assets/js/plugins
-  - assets/js/_main.js
-  - assets/js/vendor
-  - Capfile
   - CHANGELOG
-  - config
+  - Capfile
   - Gemfile
   - Gruntfile.js
-  - gulpfile.js
   - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
   - log
   - node_modules
   - package.json
-  - Rakefile
-  - README
   - tmp
   - _pages/portfolio.html
   - _portfolio
@@ -150,6 +152,7 @@ exclude:
   - _pages/category-archive.html
   - _pages/non-menu-page.md
   - markdown_generator/readme.md
+  - vendor
 keep_files:
   - .git
   - .svn
