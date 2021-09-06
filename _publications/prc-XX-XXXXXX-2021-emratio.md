@@ -7,7 +7,7 @@ venue: 'Physical Review C, in press'
 arxiv: 2106.12128
 # doi:
 # paperurl: 'https://www.patrickfasano.com/files/prc-XX-XXXXXX-2021-emratio_PREPRINT.pdf'
-citation: 'M. A. Caprio et al 2021 Phys. Rev. C, in press'
+citation: 'M. A. Caprio et al. 2021 Phys. Rev. C, in press'
 ---
 Electric quadrupole (E2) matrix elements provide a measure of nuclear
 deformation and related collective structure. Ground-state quadrupole moments in
