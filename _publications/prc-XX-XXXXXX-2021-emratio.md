@@ -1,0 +1,26 @@
+---
+title: "Quadrupole moments and proton-neutron structure in p-shell mirror nuclei"
+collection: publications
+# permalink: publications/prc-XX-XXXXXX-2021-emratio
+date: 2021-08-30
+venue: 'Physical Review C, in press'
+arxiv: 2106.12128
+# doi:
+# paperurl: 'https://www.patrickfasano.com/files/prc-XX-XXXXXX-2021-emratio_PREPRINT.pdf'
+citation: 'M. A. Caprio et al 2021 Phys. Rev. C, in press'
+---
+Electric quadrupole (E2) matrix elements provide a measure of nuclear
+deformation and related collective structure. Ground-state quadrupole moments in
+particular are known to high precision in many p-shell nuclei. While the
+experimental electric quadrupole moment only measures the proton distribution,
+both proton and neutron quadrupole moments are needed to probe proton-neutron
+asymmetry in the nuclear deformation. We seek insight into the relation between
+these moments through the ab initio no-core configuration interaction (NCCI), or
+no-core shell model (NCSM), approach. Converged ab initio calculations for
+quadrupole moments are particularly challenging, due to sensitivity to
+long-range behavior of the wave functions. We therefore study more
+robustly-converged ratios of quadrupole moments: across mirror nuclides, or of
+proton and neutron quadrupole moments within the same nuclide. In calculations
+for mirror pairs in the p-shell, we explore how well the predictions for mirror
+quadrupole moments agree with experiment and how well isospin (mirror) symmetry
+holds for quadrupole moments across a mirror pair.
