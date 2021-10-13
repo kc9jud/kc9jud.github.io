@@ -7,7 +7,7 @@ venue: 'Journal of Physics G: Nuclear and Particle Physics'
 arxiv: 2011.08307
 doi: 10.1088/1361-6471/ab9d38
 paperurl: 'https://www.patrickfasano.com/files/jpg-48-075102-2021-beyond-elliott_PREPRINT.pdf'
-citation: 'Ryan Zbikowski et al. 2021 J. Phys. G: Nucl. Part. Phys. 48 075102'
+citation: 'Ryan Zbikowski et al., J. Phys. G: Nucl. Part. Phys. 48 075102 (2021)'
 ---
 Rotational bands are commonplace in the spectra of atomic nuclei.  Inspired by
 early descriptions of these bands by quadrupole deformations of a liquid drop,
