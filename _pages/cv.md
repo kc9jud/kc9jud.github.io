@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * B.S. in Physics, University of Notre Dame, 2016
-* M.S. in Physics, University of Notre Dame, 2019 (expected)
+* M.S. in Physics, University of Notre Dame, 2020
 * Ph.D in Physics, University of Notre Dame, 2022 (expected)
 
 <!---
