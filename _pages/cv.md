@@ -13,8 +13,9 @@ Education
 ======
 * B.S. in Physics, University of Notre Dame, 2016
 * M.S. in Physics, University of Notre Dame, 2019 (expected)
-* Ph.D in Physics, University of Notre Dame, 2021 (expected)
+* Ph.D in Physics, University of Notre Dame, 2022 (expected)
 
+<!---
 Work experience
 ======
 * Summer 2015: Research Assistant
@@ -35,6 +36,7 @@ Skills
   * Sub-skill 2.2
   * Sub-skill 2.3
 * Skill 3
+-->
 
 Publications
 ======
