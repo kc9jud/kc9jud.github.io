@@ -4,6 +4,7 @@ collection: publications
 permalink: publications/epja-56-120-2020-bebands
 date: 2020-04-23
 venue: 'The European Physical Journal A'
+published: True
 arxiv: 1912.00083
 doi: 10.1140/epja/s10050-020-00112-0
 paperurl: 'https://www.patrickfasano.com/files/epja-56-120-2020-bebands_PREPRINT.pdf'

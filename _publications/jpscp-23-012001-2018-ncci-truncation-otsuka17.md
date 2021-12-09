@@ -4,6 +4,7 @@ collection: publications
 permalink: publications/jpscp-23-012001-2018-ncci-truncation-otsuka17
 date: 2018-04-22
 venue: 'JPS Conference Proceedings'
+published: True
 arxiv: 1804.10995
 doi: 10.7566/JPSCP.23.012001
 paperurl: 'https://www.patrickfasano.com/files/jpscp-23-012001-2018-ncci-truncation-otsuka17_PREPRINT.pdf'

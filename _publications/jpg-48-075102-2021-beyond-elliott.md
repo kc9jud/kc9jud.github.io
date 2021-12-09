@@ -4,6 +4,7 @@ collection: publications
 permalink: publications/jpg-48-075102-2021-beyond-elliott
 date: 2021-05-19
 venue: 'Journal of Physics G: Nuclear and Particle Physics'
+published: True
 arxiv: 2011.08307
 doi: 10.1088/1361-6471/ab9d38
 paperurl: 'https://www.patrickfasano.com/files/jpg-48-075102-2021-beyond-elliott_PREPRINT.pdf'
