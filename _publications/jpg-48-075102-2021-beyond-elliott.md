@@ -15,12 +15,12 @@ early descriptions of these bands by quadrupole deformations of a liquid drop,
 Elliott constructed discrete nucleon representations of $\mathrm{SU}(3)$ from
 fermionic creation and annihilation operators. Ever since,  Elliott's model has
 been foundational to descriptions of rotation in nuclei. Later work, however,
-suggested the symplectic extension $\mathrm{Sp}(3,R)$ provides a more unified
+suggested the symplectic extension $\mathrm{Sp}(3,\mathbb{R})$ provides a more unified
 picture.  We  decompose no-core shell-model nuclear wave functions into
 symmetry-defined subspaces for several beryllium isotopes, as well as $^{20}$Ne,
 using the quadratic Casimirs of both Elliott's $\mathrm{SU}(3)$ and
-$\mathrm{Sp}(3,R)$. The band structure,  delineated by strong $B(E2)$ values,
-has a more consistent description in $\mathrm{Sp}(3,R)$ rather than
+$\mathrm{Sp}(3,\mathbb{R})$. The band structure,  delineated by strong $B(E2)$ values,
+has a more consistent description in $\mathrm{Sp}(3,\mathbb{R})$ rather than
 $\mathrm{SU}(3)$. In particular, we confirm previous work finding in some
 nuclides strongly connected upper and lower bands with the same underlying
 symplectic structure.
