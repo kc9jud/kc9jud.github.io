@@ -16,9 +16,9 @@ interpretation has been that these bands variously represent triaxial rotation
 and prolate axially-deformed rotation. The bands are well-reproduced in ab
 initio no-core configuration interaction (NCCI) calculations. We use the
 calculated wave functions to elucidate the nuclear shapes underlying these
-bands, by examining the Elliott SU(3) symmetry content of these wave functions.
+bands, by examining the Elliott $\mathrm{SU}(3)$ symmetry content of these wave functions.
 The ab initio results support an interpretation in which the ground-state band,
 along with an accompanying $K=2$ side band, represent a triaxial rotor, arising
-from an SU(3) irreducible representation in the $0\hbar\omega$ space. Then, the
-lowest excited $K=0$ band represents a prolate rotor, arising from an SU(3)
+from an $\mathrm{SU}(3)$ irreducible representation in the $0\hbar\omega$ space. Then, the
+lowest excited $K=0$ band represents a prolate rotor, arising from an $\mathrm{SU}(3)$
 irreducible representation in the $2\hbar\omega$ space.
