@@ -7,7 +7,7 @@ venue: 'Bulgarian Journal of Physics'
 arxiv: 2112.04056
 # doi:
 # paperurl: 'https://www.patrickfasano.com/files/bjp-XX-XXXXXX-2021-10be-shape-sdanca21_PREPRINT.pdf'
-citation: 'M. A. Caprio, A.E. McCoy, P. J. Fasano, T. Dytrych, Symmetry and shape coexistence in 10Be, arXiv:2112.04056 [nucl-th]'
+citation: 'M. A. Caprio, A.E. McCoy, P. J. Fasano, and T. Dytrych, arXiv:2112.04056 [nucl-th]'
 ---
 Within the low-lying spectrum of $^{10}\mathrm{Be}$, multiple rotational bands
 are found, with strikingly different moments of inertia. A proposed
