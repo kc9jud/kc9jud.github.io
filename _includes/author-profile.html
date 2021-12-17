@@ -107,13 +107,19 @@
         <li><a href="{{ author.googlescholar }}"><i class="fas fa-fw fa-graduation-cap"></i> Google Scholar</a></li>
       {% endif %}
       {% if author.arxiv %}
-        <li><a href="https://arxiv.org/a/{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv-square"></i> arXiv</a></li>
+        <li><a href="https://arxiv.org/a/{{ author.arxiv }}"><i class="ai ai-fw ai-arxiv"></i> arXiv</a></li>
       {% endif %}
       {% if author.pubmed %}
         <li><a href="{{ author.pubmed }}"><i class="ai ai-pubmed-square ai-fw"></i> PubMed</a></li>
       {% endif %}
+      {% if author.inspire %}
+        <li><a href="https://inspirehep.net/authors/{{ author.inspire }}"><i class="ai ai-inspire ai-fw"></i> INSPIRE</a></li>
+      {% endif %}
+      {% if author.ads %}
+        <li><a href="{{ author.ads }}"><i class="ai ai-ads ai-fw"></i> NASA ADS</a></li>
+      {% endif %}
       {% if author.orcid %}
-        <li><a href="{{ author.orcid }}"><i class="ai ai-orcid-square ai-fw"></i> ORCID</a></li>
+        <li><a href="https://orcid.org/{{ author.orcid }}"><i class="ai ai-orcid ai-fw" style="color:#a6ce39"></i> ORCID iD</a></li>
       {% endif %}
       {% if author.impactstory %}
         <li><a href="{{ author.impactstory }}"><i class="ai ai-impactstory ai-fw"></i> Impactstory</a></li>
