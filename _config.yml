@@ -91,8 +91,7 @@ author:
   email            : "pfasano@nd.edu"
   researchgate     : "https://www.researchgate.net/profile/Patrick_Fasano"
   uri              :
-  ads              : # example: 'https://ui.adsabs.harvard.edu/search/q=author%3A"Galilei%2C G."'
-  arxiv            :
+  ads              : "https://ui.adsabs.harvard.edu/search/q=author%3A(%22Fasano%2C%20Patrick%20James%22%20OR%20%22Fasano%2C%20Patrick%22)&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   bitbucket        :
   codepen          :
   dribbble         :
@@ -103,7 +102,7 @@ author:
   google_plus      :
   keybase          : "pjfasano"
   instagram        :
-  inspire          : # "1234567"
+  inspire          : "1730287"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
