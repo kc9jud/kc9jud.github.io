@@ -5,7 +5,7 @@ permalink: publications/jpg-48-075102-2021-beyond-elliott
 date: 2021-05-19
 venue: 'Journal of Physics G: Nuclear and Particle Physics'
 arxiv: 2011.08307
-doi: 10.1088/1361-6471/ab9d38
+doi: 10.1088/1361-6471/abdd8e
 paperurl: 'https://www.patrickfasano.com/files/jpg-48-075102-2021-beyond-elliott_PREPRINT.pdf'
 citation: 'R. Zbikowski, C. W. Johnson, A. E. McCoy, M. A. Caprio, and P. J. Fasano, J. Phys. G: Nucl. Part. Phys. 48, 075102 (2021).'
 status: published
