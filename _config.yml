@@ -149,12 +149,15 @@ exclude:
   - node_modules
   - package.json
   - tmp
-  - _pages/portfolio.html
+  - _pages/archive-layout-with-content.md
+  - _pages/category-archive.html
   - _pages/markdown.md
+  - _pages/non-menu-page.md
+  - _pages/portfolio.html
+  - _pages/talkmap.html
+  - _pages/terms.md
   - _portfolio
   - _posts
-  - _pages/category-archive.html
-  - _pages/non-menu-page.md
   - markdown_generator/readme.md
   - vendor
 keep_files:
