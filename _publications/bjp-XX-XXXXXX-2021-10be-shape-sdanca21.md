@@ -1,5 +1,6 @@
 ---
-title: "Natural orbitals for the ab initio no-core configuration interaction approach"
+title: "Symmetry and shape coexistence in <sup>10</sup>Be"
+id: "10be-shape-sdanca21"
 collection: publications
 # permalink: publications/bjp-XX-XXXXXX-2021-10be-shape-sdanca21
 date: 2021-12-07
