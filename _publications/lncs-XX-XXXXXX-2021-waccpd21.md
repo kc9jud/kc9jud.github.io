@@ -8,7 +8,7 @@ arxiv: 2110.10765
 # doi:
 # paperurl: 'https://www.patrickfasano.com/files/lncs-XX-XXXXXX-2021-waccpd21_PREPRINT.pdf'
 citation: 'B. G. Cook, P. J. Fasano, P. Maris, C. Yang, and D. Oryspayev, arXiv:2110.10765 [cs.DC]'
-status: submitted
+status: inpress
 ---
 Many-Fermion Dynamics-nuclear, or MFDn, is a configuration interaction (CI) code
 for nuclear structure calculations. It is a platform-independent Fortran 90 code
