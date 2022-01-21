@@ -150,6 +150,7 @@ exclude:
   - package.json
   - tmp
   - _pages/portfolio.html
+  - _pages/markdown.md
   - _portfolio
   - _posts
   - _pages/category-archive.html
