@@ -43,6 +43,8 @@
         {% elsif post.collection == 'publications' %}
           {% if post.status == 'published' %}
             <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+          {% elsif post.status == 'inpress' %}
+            <p>Accepted for publication in <i>{{ post.venue }}</i> </p>
           {% elsif post.status == 'submitted' %}
             <p>Submitted to <i>{{ post.venue }}</i> </p>
           {% else %}
