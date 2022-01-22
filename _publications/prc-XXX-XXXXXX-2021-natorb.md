@@ -1,5 +1,6 @@
 ---
 title: "Natural orbitals for the ab initio no-core configuration interaction approach"
+id: "natorb"
 collection: publications
 # permalink: publications/prc-XXX-XXXXXX-2021-natorb
 date: 2021-12-07
@@ -23,7 +24,7 @@ while also possibly providing physical insight into the single-particle
 structure of the many-body wave function. We describe the implementation of
 natural orbitals in the NCCI framework, and examine the nature of the natural
 orbitals thus obtained, the properties of the resulting many-body wave
-functions, and the convergence of observables. After taking $^3\mathrm{He}$ as
+functions, and the convergence of observables. After taking <sup>3</sup>He as
 an illustrative testbed, we explore aspects of NCCI calculations with natural
 orbitals for the ground state of the p-shell neutron halo nucleus
-$^6\mathrm{He}$.
+<sup>6</sup>He.

@@ -11,7 +11,7 @@ arxiv: 2112.04056
 citation: 'M. A. Caprio, A.E. McCoy, P. J. Fasano, and T. Dytrych, arXiv:2112.04056 [nucl-th]'
 status: inpress
 ---
-Within the low-lying spectrum of $^{10}\mathrm{Be}$, multiple rotational bands
+Within the low-lying spectrum of <sup>10</sup>Be, multiple rotational bands
 are found, with strikingly different moments of inertia. A proposed
 interpretation has been that these bands variously represent triaxial rotation
 and prolate axially-deformed rotation. The bands are well-reproduced in ab

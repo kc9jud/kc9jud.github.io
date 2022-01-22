@@ -17,7 +17,7 @@ fermionic creation and annihilation operators. Ever since,  Elliott's model has
 been foundational to descriptions of rotation in nuclei. Later work, however,
 suggested the symplectic extension $\mathrm{Sp}(3,\mathbb{R})$ provides a more unified
 picture.  We  decompose no-core shell-model nuclear wave functions into
-symmetry-defined subspaces for several beryllium isotopes, as well as $^{20}$Ne,
+symmetry-defined subspaces for several beryllium isotopes, as well as <sup>20</sup>Ne,
 using the quadratic Casimirs of both Elliott's $\mathrm{SU}(3)$ and
 $\mathrm{Sp}(3,\mathbb{R})$. The band structure,  delineated by strong $B(E2)$ values,
 has a more consistent description in $\mathrm{Sp}(3,\mathbb{R})$ rather than
