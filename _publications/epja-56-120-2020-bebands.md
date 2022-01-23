@@ -1,5 +1,5 @@
 ---
-title: "Probing ab initio emergence of nuclear rotation"
+title: "Probing <i>ab initio</i> emergence of nuclear rotation"
 collection: publications
 permalink: publications/epja-56-120-2020-bebands
 date: 2020-04-23
