@@ -9,7 +9,7 @@ arxiv: 2112.04027
 # doi: 10.1103/PhysRevC.104.034319
 # paperurl: 'https://www.patrickfasano.com/files/prc-XXX-XXXXXX-2021-natorb_PREPRINT.pdf'
 citation: 'P. J. Fasano, Ch. Constantinou, M. A. Caprio, P. Maris, and J. P. Vary, arXiv:2112.04027 [nucl-th]'
-status: submitted
+status: inpress
 ---
 _Ab initio_ no-core configuration interaction (NCCI) calculations for the
 nuclear many-body problem have traditionally relied upon an antisymmetrized
