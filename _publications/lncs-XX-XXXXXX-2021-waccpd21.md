@@ -1,7 +1,6 @@
 ---
 title: "Accelerating quantum many-body configuration interaction with directives"
 collection: publications
-# permalink: publications/lncs-XX-XXXXXX-2021-waccpd21
 date: 2021-10-21
 venue: 'Lecture Notes in Computer Science'
 arxiv: 2110.10765

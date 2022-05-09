@@ -1,7 +1,6 @@
 ---
 title: "Probing <i>ab initio</i> emergence of nuclear rotation"
 collection: publications
-permalink: publications/epja-56-120-2020-bebands
 date: 2020-04-23
 venue: 'The European Physical Journal A'
 arxiv: 1912.00083

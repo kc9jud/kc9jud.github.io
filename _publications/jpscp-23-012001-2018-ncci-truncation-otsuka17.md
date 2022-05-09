@@ -1,7 +1,6 @@
 ---
 title: "Perspectives on Nuclear Structure and Scattering with the Ab Initio No-Core Shell Model"
 collection: publications
-permalink: publications/jpscp-23-012001-2018-ncci-truncation-otsuka17
 date: 2018-04-22
 venue: 'JPS Conference Proceedings'
 arxiv: 1804.10995

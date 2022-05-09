@@ -2,7 +2,6 @@
 title: "_Ab initio_ rotation in <sup>10</sup>Be"
 id: bebands-sdanca19
 collection: publications
-permalink: publications/bjp-46-445-2019-bebands-sdanca19
 date: 2019-12-09
 venue: 'Bulgarian Journal of Physics'
 arxiv: 1912.06082
