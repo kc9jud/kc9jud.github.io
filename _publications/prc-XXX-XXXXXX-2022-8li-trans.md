@@ -1,0 +1,31 @@
+---
+title: "<i>Ab initio</i> prediction of <i>E2</i> strengths in <sup>8</sup>Li and its neighbors by normalization to the measured quadrupole moment"
+id: "8li-trans"
+collection: publications
+date: 2022-06-14
+venue: 'Physical Review C'
+arxiv: 2206.05628
+#doi:
+paperurl: 'https://www.patrickfasano.com/files/prc-XXX-XXXXXX-2022-8li-trans_PREPRINT.pdf'
+citation: 'M. A. Caprio and P. J. Fasano, arXiv:2206.05628 [nucl-th].'
+status: submitted
+#redirect_from:
+#  - publications/prc-XXX-XXXXXX-2021-natorb
+#  - /publications/prc-XXX-XXXXXX-2021-natorb/
+---
+For electric quadrupole ($E2$) observables, which depend on the large-distance
+tails of the nuclear wave function, _ab initio_ no-core configuration
+interaction (NCCI) calculations converge slowly, making meaningful predictions
+challenging to obtain. Nonetheless, the calculated values for different $E2$
+matrix elements, particularly those involving levels with closely-related
+structure (_e.g._, within the same rotational band) are found to be
+robustly proportinal.  This observation suggests that a known value for one
+observable may be used to determine the overall scale of $E2$ strengths, and
+thereby provide predictions for others. In particular, we demonstrate that
+meaningful predictions for $E2$ transitions may obtained by calibration to the
+ground-state quadrupole moment. We test this approach for well-measured
+low-lying $E2$ transitions in <sup>7</sup>Li and <sup>9</sup>Be, then
+provide predictions for transitions in <sup>8,9</sup>Li.  In particular, we
+address the $2^+\rightarrow1^+$ transition in <sup>8</sup>Li, for which the
+reported measured strength exceeds _ab initio_ Green's function Monte
+Carlo (GFMC) predictions by over an order of magnitude.
