@@ -8,7 +8,7 @@ arxiv: 2206.05628
 #doi:
 paperurl: 'https://www.patrickfasano.com/files/prc-XXX-XXXXXX-2022-8li-trans_PREPRINT.pdf'
 citation: 'M. A. Caprio and P. J. Fasano, arXiv:2206.05628 [nucl-th].'
-status: submitted
+status: inpress
 #redirect_from:
 #  - publications/prc-XXX-XXXXXX-2021-natorb
 #  - /publications/prc-XXX-XXXXXX-2021-natorb/
