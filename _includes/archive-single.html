@@ -61,9 +61,9 @@
     {% endif %}
 
     <p>
-      {%- if post.doi -%}DOI:&nbsp;<a href="https://dx.doi.org/{{ post.doi }}">{{ post.doi }}</a>{%- endif -%}
+      {%- if post.doi -%}DOI:&nbsp;<a href="https://dx.doi.org/{{ post.doi }}" target="_blank" rel="noopener noreferrer">{{ post.doi }}</a>{%- endif -%}
       {%- if post.doi and post.arxiv -%}&nbsp;&vert; {% endif -%}
-      {%- if post.arxiv -%}arXiv:&nbsp;<a href="https://arxiv.org/abs/{{ post.arxiv }}">{{ post.arxiv }}</a>{%- endif -%}
+      {%- if post.arxiv -%}arXiv:&nbsp;<a href="https://arxiv.org/abs/{{ post.arxiv }}" target="_blank" rel="noopener noreferrer">{{ post.arxiv }}</a>{%- endif -%}
 
       {%- if post.doi or post.arxiv -%}{%- if post.citation or post.paperurl -%}<br />{%- endif -%}{%- endif -%}
 
