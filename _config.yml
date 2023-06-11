@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Patrick Fasano"
   avatar           : "profile.jpg"
-  bio              : "Graduate student, nuclear theorist, breaker of supercomputers."
-  location         : "South Bend, IN"
-  employer         : "University of Notre Dame"
+  bio              : "Postdoctoral associate, nuclear theorist, breaker of supercomputers."
+  location         : "Chicago, IL area"
+  employer         : "Argonne National Laboratory"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=yKT76xEAAAAJ"
   arxiv            : "fasano_p_1"
