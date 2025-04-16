@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a Senior HPC Applications Engineer at [NextSilicon](https://www.nextsilicon.com/).
+I'm an HPC Applications Engineer at [NextSilicon](https://www.nextsilicon.com/).
 We're building a new type of accelerator for high-performance computing, and I help
 people get the best performance possible.
 
